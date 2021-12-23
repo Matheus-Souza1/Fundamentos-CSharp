@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FundamentosCSharp", "FundamentosCSharp\FundamentosCSharp.csproj", "{13339E8D-6445-4AAD-BDF3-C9C5BB405FC4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FundamentosCSharp", "FundamentosCSharp\FundamentosCSharp.csproj", "{13339E8D-6445-4AAD-BDF3-C9C5BB405FC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FundamentosCSharp.ConversaoDeTipos", "FundamentosCSharp.ConversaoDeTipos\FundamentosCSharp.ConversaoDeTipos.csproj", "{A5543AA1-489D-4E30-8641-C26FB903A657}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FundamentosCSharp.ConversaoDeTipos", "FundamentosCSharp.ConversaoDeTipos\FundamentosCSharp.ConversaoDeTipos.csproj", "{A5543AA1-489D-4E30-8641-C26FB903A657}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FundamentosCSharp.OperadoresAritmeticos", "FundamentosCSharp.OperadoresAritmeticos\FundamentosCSharp.OperadoresAritmeticos.csproj", "{A1B8295A-24EF-4C38-9BDF-C2E764647F49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FundamentosCSharp.OperadoresAritmeticos", "FundamentosCSharp.OperadoresAritmeticos\FundamentosCSharp.OperadoresAritmeticos.csproj", "{A1B8295A-24EF-4C38-9BDF-C2E764647F49}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FundamentosCSharp.OperadoresDeComparacao", "FundamentosCSharp.OperadoresDeComparacao\FundamentosCSharp.OperadoresDeComparacao.csproj", "{2AB13B2F-9613-4BC6-986C-6D874B3C8120}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FundamentosCSharp.OperadoresDeComparacao", "FundamentosCSharp.OperadoresDeComparacao\FundamentosCSharp.OperadoresDeComparacao.csproj", "{2AB13B2F-9613-4BC6-986C-6D874B3C8120}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FundamentosCSharp.OperadoresDeIgualdade", "FundamentosCSharp.OperadoresDeIgualdade\FundamentosCSharp.OperadoresDeIgualdade.csproj", "{F9DA0F58-3954-49AE-80F6-44508A837655}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{2AB13B2F-9613-4BC6-986C-6D874B3C8120}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2AB13B2F-9613-4BC6-986C-6D874B3C8120}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2AB13B2F-9613-4BC6-986C-6D874B3C8120}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9DA0F58-3954-49AE-80F6-44508A837655}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9DA0F58-3954-49AE-80F6-44508A837655}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9DA0F58-3954-49AE-80F6-44508A837655}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9DA0F58-3954-49AE-80F6-44508A837655}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

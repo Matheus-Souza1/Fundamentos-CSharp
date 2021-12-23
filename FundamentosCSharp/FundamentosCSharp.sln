@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FundamentosCSharp.Operadore
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FundamentosCSharp.OperadoresDeIgualdade", "FundamentosCSharp.OperadoresDeIgualdade\FundamentosCSharp.OperadoresDeIgualdade.csproj", "{F9DA0F58-3954-49AE-80F6-44508A837655}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FundamentosCSharp.OperadoresLogicos", "FundamentosCSharp.OperadoresLogicos\FundamentosCSharp.OperadoresLogicos.csproj", "{540DA757-3F26-48FB-9243-DB91A6FF88E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{F9DA0F58-3954-49AE-80F6-44508A837655}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9DA0F58-3954-49AE-80F6-44508A837655}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9DA0F58-3954-49AE-80F6-44508A837655}.Release|Any CPU.Build.0 = Release|Any CPU
+		{540DA757-3F26-48FB-9243-DB91A6FF88E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{540DA757-3F26-48FB-9243-DB91A6FF88E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{540DA757-3F26-48FB-9243-DB91A6FF88E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{540DA757-3F26-48FB-9243-DB91A6FF88E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
